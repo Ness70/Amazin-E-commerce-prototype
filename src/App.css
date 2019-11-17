@@ -9,7 +9,7 @@
 
 body {
 	font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
-	background-color: var(--mainGrey) !important;
+	background-color: var(--mainDark) !important;
 	color: var(--mainDark) !important;
 }
 
